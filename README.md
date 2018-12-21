@@ -1,3 +1,3 @@
 # jb-skin-fonts
 
-<p>Korean Webfonts</p>
+<p>Webfonts</p>
